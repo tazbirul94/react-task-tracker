@@ -1,5 +1,4 @@
 import Button from './Button'
-import Task from './Tasks'
 
 const Header = (props) => {
     return (
